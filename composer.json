@@ -1,5 +1,5 @@
 {
-    "name": "lajax/yii2-asset-minifier",
+    "name": "badtiger/yii2-asset-minifier",
     "description": "Runtime minification and combination of asset files.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","css","js","minify","compress","combine client script","register"],
